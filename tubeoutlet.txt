@@ -4,6 +4,6 @@ Welcome to tubeoutlet !
 
 It's an youtube history noting app which project is yet to be start ! 
 
-Which includes some socialblade api for showing info on youtubers earnings and rankings ! 
+
 
 Thank you :)
